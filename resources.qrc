@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/joshm/OneDrive/Desktop/CarletonLogo.png</file>
+        <file>C:/Users/joshm/OneDrive/Desktop/loading.gif</file>
+        <file>C:/Users/joshm/OneDrive/Desktop/icon.ico</file>
+    </qresource>
+    <qresource prefix="/scripts"/>
+    <qresource prefix="/"/>
+</RCC>
